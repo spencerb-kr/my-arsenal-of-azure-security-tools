@@ -4,12 +4,7 @@
 - [Contribute](#contribute)
 - [Defensive](#defensive-hardening-security-assessment-and-inventory)
 - [Offensive](#offensive)
-- [Continuous Security Auditing](#continuous-security-auditing)
-- [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
 - [Development Security](#development-security)
-- [S3 Buckets Auditing](#s3-buckets-auditing)
-- [Training](#training)
-- [Other interesting tools/code](#other-interesting-tools/code)
 
 ## Contribute
 Do you want to contribute to this list? Feel free to send a PR and make sure your tool is [Open Source](https://en.wikipedia.org/wiki/Open_source).
@@ -31,15 +26,6 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 | ---------- | :---------- | :---------- | :----------: | :----------: |
 | **GitLeaks** | [https://github.com/zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) | Audit git repos for secrets |[![stars](https://badgen.net/github/stars/zricethezav/gitleaks)](https://badgen.net/github/stars/zricethezav/gitleaks)| [![contributors](https://badgen.net/github/contributors/zricethezav/gitleaks)](https://badgen.net/github/contributors/zricethezav/gitleaks)[![watchers](https://badgen.net/github/watchers/zricethezav/gitleaks)](https://badgen.net/github/watchers/zricethezav/gitleaks)[![last-commit](https://badgen.net/github/last-commit/zricethezav/gitleaks)](https://badgen.net/github/last-commit/zricethezav/gitleaks) [![open-issues](https://badgen.net/github/open-issues/zricethezav/gitleaks)](https://badgen.net/github/open-issues/zricethezav/gitleaks) [![closed-issues](https://badgen.net/github/closed-issues/zricethezav/gitleaks)](https://badgen.net/github/closed-issues/zricethezav/gitleaks) |
 | **CloudBrute** | [https://github.com/0xsha/cloudbrute](https://github.com/0xsha/cloudbrute) | A tool to find a company (target) infrastructure, files, and apps on the top cloud providers | [![stars](https://badgen.net/github/stars/0xsha/cloudbrute)](https://badgen.net/github/stars/0xsha/cloudbrute) | [![contributors](https://badgen.net/github/contributors/0xsha/cloudbrute)](https://badgen.net/github/contributors/0xsha/cloudbrute) [![watchers](https://badgen.net/github/watchers/0xsha/cloudbrute)](https://badgen.net/github/watchers/0xsha/cloudbrute) [![last-commit](https://badgen.net/github/last-commit/0xsha/cloudbrute)](https://badgen.net/github/last-commit/0xsha/cloudbrute) [![open-issues](https://badgen.net/github/open-issues/0xsha/cloudbrute)](https://badgen.net/github/open-issues/0xsha/cloudbrute) [![closed-issues](https://badgen.net/github/closed-issues/0xsha/cloudbrute)](https://badgen.net/github/closed-issues/0xsha/cloudbrute) |
-
-## Continuous Security Auditing
-| Name | URL | Description | Popularity | Metadata |
-| ---------- | :---------- | :---------- | :----------: | :----------: |
-
-## Digital Forensics and Incident Response
-| Name | URL | Description | Popularity | Metadata |
-| ---------- | :---------- | :---------- | :----------: | :----------: |
-
 
 ## Development Security
 | Name | URL | Description | Popularity | Metadata |
